@@ -1,0 +1,7250 @@
+{
+  "nodes": [
+  
+ {
+  "id": "Familiar"
+ },
+ {
+  "id": "Iulia Lumânare"
+ },
+ {
+  "id": "Cãlin Peter Netzer"
+ },
+ {
+  "id": "Emanuel Parvu"
+ },
+ {
+  "id": "Ana Ciontea"
+ },
+ {
+  "id": "Adrian Titieni"
+ },
+ {
+  "id": "Vlad Ivanov"
+ },
+ {
+  "id": "Victoria Ecaterina Moraru"
+ },
+ {
+  "id": "Lucian Ifrim"
+ },
+ {
+  "id": "Bogdan Voda"
+ },
+ {
+  "id": "Clara Voda"
+ },
+ {
+  "id": "Pierrick Baudouin"
+ },
+ {
+  "id": "Stefano Centini"
+ },
+ {
+  "id": "Chu-Ti Chang"
+ },
+ {
+  "id": "Tom Dercourt"
+ },
+ {
+  "id": "Mike Downey"
+ },
+ {
+  "id": "Sophie Erbs"
+ },
+ {
+  "id": "Oana Iancu"
+ },
+ {
+  "id": "Theo Nissim"
+ },
+ {
+  "id": "Dan Ciocazan"
+ },
+ {
+  "id": "Alexandru Iliescu"
+ },
+ {
+  "id": "Delia Marcu"
+ },
+ {
+  "id": "Moritz Schneider"
+ },
+ {
+  "id": "Barbu Balasoiu"
+ },
+ {
+  "id": "Andrei Butica"
+ },
+ {
+  "id": "Dana Bunescu"
+ },
+ {
+  "id": "Bogdan Miron"
+ },
+ {
+  "id": "Preda Nicolae"
+ },
+ {
+  "id": "Ioana Covalcic"
+ },
+ {
+  "id": "Judy Shrewsbury"
+ },
+ {
+  "id": "Gabi Cretan"
+ },
+ {
+  "id": "Paraschiv Oana"
+ },
+ {
+  "id": "Nicoleta Petrache"
+ },
+ {
+  "id": "Cristina Temelie"
+ },
+ {
+  "id": "Iuliana Temelie"
+ },
+ {
+  "id": "Andrei Enoiu"
+ },
+ {
+  "id": "Ami Geger"
+ },
+ {
+  "id": "Mihnea Vonica"
+ },
+ {
+  "id": "Andrei Armaselu"
+ },
+ {
+  "id": "Gabi Bucur"
+ },
+ {
+  "id": "Robert Grumeza"
+ },
+ {
+  "id": "Marian Pîrvu"
+ },
+ {
+  "id": "Annabel Acquaviva"
+ },
+ {
+  "id": "Dana Farzanehpour"
+ },
+ {
+  "id": "Iolanda Girleanu"
+ },
+ {
+  "id": "Pascal Mazière"
+ },
+ {
+  "id": "Cristinel Sirli"
+ },
+ {
+  "id": "Florin Tabacaru"
+ },
+ {
+  "id": "Ciprian Visan"
+ },
+ {
+  "id": "Iordache"
+ },
+ {
+  "id": "Nicolae Constantin"
+ },
+ {
+  "id": "Calin Ferezan"
+ },
+ {
+  "id": "Razvan Horse"
+ },
+ {
+  "id": "Catalin Iacob"
+ },
+ {
+  "id": "Dario Andreescu"
+ },
+ {
+  "id": "Octavian Andreescu"
+ },
+ {
+  "id": "Lupsa Armand"
+ },
+ {
+  "id": "Radu Barbu"
+ },
+ {
+  "id": "Boroka Biro"
+ },
+ {
+  "id": "Razvan Cretan"
+ },
+ {
+  "id": "Liviu Darescu"
+ },
+ {
+  "id": "Florin Ene"
+ },
+ {
+  "id": "Ilie Georgica"
+ },
+ {
+  "id": "Matei Ioncica"
+ },
+ {
+  "id": "Mielu Moldoveanu Constantin"
+ },
+ {
+  "id": "Cosmin Popescu"
+ },
+ {
+  "id": "Sorin Stanciu"
+ },
+ {
+  "id": "Aurelian Stoica"
+ },
+ {
+  "id": "Catalin Stoica"
+ },
+ {
+  "id": "Yi-Hsun Chiang"
+ },
+ {
+  "id": "Alexandru Stoica"
+ },
+ {
+  "id": "Alina Apostu"
+ },
+ {
+  "id": "Daniel Oprea"
+ },
+ {
+  "id": "Mihai Popa"
+ },
+ {
+  "id": "Corinna Vick"
+ },
+ {
+  "id": "Beginning"
+ },
+ {
+  "id": "Razvan Savescu"
+ },
+ {
+  "id": "Alexandru Popa"
+ },
+ {
+  "id": "Ionut Achivoaie"
+ },
+ {
+  "id": "Elias Ferkin"
+ },
+ {
+  "id": "Ioana Flora"
+ },
+ {
+  "id": "Mirela Gorea"
+ },
+ {
+  "id": "Sabina Nadiana Grigoriu"
+ },
+ {
+  "id": "Ela Ionescu"
+ },
+ {
+  "id": "Constantin Lupescu"
+ },
+ {
+  "id": "Adela Marghidan"
+ },
+ {
+  "id": "Vlad Zamfirescu"
+ },
+ {
+  "id": "Ruxandra Flonta"
+ },
+ {
+  "id": "Liviu Mãrghidan"
+ },
+ {
+  "id": "Viorel Chesaru"
+ },
+ {
+  "id": "Bogdan Ionescu"
+ },
+ {
+  "id": "Adriana Craciunescu"
+ },
+ {
+  "id": "Tudor D. Popescu"
+ },
+ {
+  "id": "Amalia Spalatelu"
+ },
+ {
+  "id": "Ramona Geaman"
+ },
+ {
+  "id": "Andrei Stefanescu"
+ },
+ {
+  "id": "Dani Ionescu"
+ },
+ {
+  "id": "Alexandru Dumitru"
+ },
+ {
+  "id": "Razvan Ionescu"
+ },
+ {
+  "id": "Bogdan Ivanovici"
+ },
+ {
+  "id": "Radu Bondoc"
+ },
+ {
+  "id": "Bogdan Rucareanu"
+ },
+ {
+  "id": "Mircea Valentin"
+ },
+ {
+  "id": "Si atunci, ce e libertatea?"
+ },
+ {
+  "id": "Andrei Zincã"
+ },
+ {
+  "id": "Ana Blandiana"
+ },
+ {
+  "id": "Olimpia Melinte"
+ },
+ {
+  "id": "Nicodim Ungureanu"
+ },
+ {
+  "id": "Serban Georgevici"
+ },
+ {
+  "id": "Radu Bânzaru"
+ },
+ {
+  "id": "Magda Catone"
+ },
+ {
+  "id": "Radu Ciobanasu"
+ },
+ {
+  "id": "Toma Cuzin"
+ },
+ {
+  "id": "Teodor Falcon"
+ },
+ {
+  "id": "Radu Iacoban"
+ },
+ {
+  "id": "Dorina Lazar"
+ },
+ {
+  "id": "Axel Moustache"
+ },
+ {
+  "id": "Cristian Popa"
+ },
+ {
+  "id": "Tunde Skovran"
+ },
+ {
+  "id": "Calin Papura"
+ },
+ {
+  "id": "Adrian Moroca"
+ },
+ {
+  "id": "Cornelia Stefan"
+ },
+ {
+  "id": "Tudor Vladimir Panduru"
+ },
+ {
+  "id": "Edith Weil"
+ },
+ {
+  "id": "Catalin Miloiu"
+ },
+ {
+  "id": "Laurent Morel"
+ },
+ {
+  "id": "Mihaela Nastase"
+ },
+ {
+  "id": "Carmina Penes"
+ },
+ {
+  "id": "Dan Safta"
+ },
+ {
+  "id": "Nicoleta Cirnu"
+ },
+ {
+  "id": "Camelia Borcan"
+ },
+ {
+  "id": "Beti Facaianu"
+ },
+ {
+  "id": "Gabriela Gociu"
+ },
+ {
+  "id": "Lidia Ivanov"
+ },
+ {
+  "id": "George Gugulici"
+ },
+ {
+  "id": "Ciprian Nistorescu"
+ },
+ {
+  "id": "Marian Sarbu"
+ },
+ {
+  "id": "Daniel Szabo"
+ },
+ {
+  "id": "Nelu Bain"
+ },
+ {
+  "id": "Bastien Benkhelil"
+ },
+ {
+  "id": "Igor Comes"
+ },
+ {
+  "id": "Mirel Cristea"
+ },
+ {
+  "id": "Florin Mandra"
+ },
+ {
+  "id": "Florian Stoica"
+ },
+ {
+  "id": "György Mohai"
+ },
+ {
+  "id": "Maria Raducanu"
+ },
+ {
+  "id": "Liviu Dinu"
+ },
+ {
+  "id": "Alexandru-Alin Dumitru"
+ },
+ {
+  "id": "Salomon Gill"
+ },
+ {
+  "id": "Arturo Zuñiga"
+ },
+ {
+  "id": "Anghel Decca"
+ },
+ {
+  "id": "Sharath Chandra Subramanyam"
+ },
+ {
+  "id": "Cărturan"
+ },
+ {
+  "id": "Liviu Sandulescu"
+ },
+ {
+  "id": "Bogdan Adrian Toma"
+ },
+ {
+  "id": "Alexandra Botau"
+ },
+ {
+  "id": "Teodor Corban"
+ },
+ {
+  "id": "Dana Dogaru"
+ },
+ {
+  "id": "Cristina Flutur"
+ },
+ {
+  "id": "Marcel Cobzariu"
+ },
+ {
+  "id": "Vlad Popescu"
+ },
+ {
+  "id": "Tudor Bratucu"
+ },
+ {
+  "id": "Sergiu Costache"
+ },
+ {
+  "id": "Silvia Gisca"
+ },
+ {
+  "id": "Violeta Haret-Popa"
+ },
+ {
+  "id": "Codin Maticiuc"
+ },
+ {
+  "id": "Elvira Rimbu"
+ },
+ {
+  "id": "Carmen Tanase"
+ },
+ {
+  "id": "Jörgen Andersson"
+ },
+ {
+  "id": "Anthony Muir"
+ },
+ {
+  "id": "Anca Puiu"
+ },
+ {
+  "id": "Smaranda Puiu"
+ },
+ {
+  "id": "Kjell Åhlund"
+ },
+ {
+  "id": "Octavian Grigore"
+ },
+ {
+  "id": "Serban Rogoveanu"
+ },
+ {
+  "id": "Oleg Mutu"
+ },
+ {
+  "id": "Fateh Shams"
+ },
+ {
+  "id": "Ion Ioachim Stroe"
+ },
+ {
+  "id": "Alexandra 'Alma' Ungureanu"
+ },
+ {
+  "id": "Dana Anghel"
+ },
+ {
+  "id": "Raluca Badea"
+ },
+ {
+  "id": "Madalina Pletoianu"
+ },
+ {
+  "id": "Francisca Vass"
+ },
+ {
+  "id": "Loredana Badila"
+ },
+ {
+  "id": "Serban Racoviteanu"
+ },
+ {
+  "id": "Mats Adler"
+ },
+ {
+  "id": "Bogdan Geambasu"
+ },
+ {
+  "id": "Mariuca Petre"
+ },
+ {
+  "id": "Hasan Nasser"
+ },
+ {
+  "id": "Gustaf Berger"
+ },
+ {
+  "id": "Jesper Miller"
+ },
+ {
+  "id": "Lars Wignell"
+ },
+ {
+  "id": "Georgiana Neagu"
+ },
+ {
+  "id": "Christer Engström"
+ },
+ {
+  "id": "Pompiliu Avram"
+ },
+ {
+  "id": "Dan Balan"
+ },
+ {
+  "id": "Valentin Goran"
+ },
+ {
+  "id": "Mihai Burtan"
+ },
+ {
+  "id": "Benjamin Sandu"
+ },
+ {
+  "id": "Stefan Barsan"
+ },
+ {
+  "id": "Caravana cinematografică"
+ },
+ {
+  "id": "Titus Muntean"
+ },
+ {
+  "id": "Dorian Boguta"
+ },
+ {
+  "id": "Eduard Cirlan"
+ },
+ {
+  "id": "Mircea Diaconu"
+ },
+ {
+  "id": "Ovidiu Ghinita"
+ },
+ {
+  "id": "Alexandru Georgescu"
+ },
+ {
+  "id": "Mihai Motoiu"
+ },
+ {
+  "id": "Cristian Szekeres"
+ },
+ {
+  "id": "Nicolae Urs"
+ },
+ {
+  "id": "Melania Ursu"
+ },
+ {
+  "id": "Oana Giurgiu"
+ },
+ {
+  "id": "Tudor Giurgiu"
+ },
+ {
+  "id": "Jens Körner"
+ },
+ {
+  "id": "Alexandru Costin Stefan"
+ },
+ {
+  "id": "Alina Tapardel"
+ },
+ {
+  "id": "Dana Boghean-Melconian"
+ },
+ {
+  "id": "Vivi Dragan Vasile"
+ },
+ {
+  "id": "Andu Radu"
+ },
+ {
+  "id": "Claudiu Doaga"
+ },
+ {
+  "id": "Laura Grosu"
+ },
+ {
+  "id": "Liliana Toma"
+ },
+ {
+  "id": "Christian Niculescu"
+ },
+ {
+  "id": "Geaniloni Sandru"
+ },
+ {
+  "id": "Maria Muscalu"
+ },
+ {
+  "id": "Viorica Petrovici"
+ },
+ {
+  "id": "Dana Roseanu"
+ },
+ {
+  "id": "Iulia Roseanu"
+ },
+ {
+  "id": "Daniel Barbulescu"
+ },
+ {
+  "id": "Adriana Racasan"
+ },
+ {
+  "id": "Nicolae Comarzan"
+ },
+ {
+  "id": "Olaf Mehl"
+ },
+ {
+  "id": "Sebastian Schmidt"
+ },
+ {
+  "id": "Cristian Tarnovetchi"
+ },
+ {
+  "id": "Christoph Wieczorek"
+ },
+ {
+  "id": "Vasile Sirli"
+ },
+ {
+  "id": "Cristiana Apostol"
+ },
+ {
+  "id": "Butnariu Daniel"
+ },
+ {
+  "id": "Cristian Dragos"
+ },
+ {
+  "id": "Ancuta Iordachescu"
+ },
+ {
+  "id": "Stefan Tarzioru"
+ },
+ {
+  "id": "Liviu Pojoni Jr."
+ },
+ {
+  "id": "Pororoca"
+ },
+ {
+  "id": "Constantin Popescu"
+ },
+ {
+  "id": "Bogdan Dumitrache"
+ },
+ {
+  "id": "Constantin Dogioiu"
+ },
+ {
+  "id": "Stefan Raus"
+ },
+ {
+  "id": "Alice Cora Mihalache"
+ },
+ {
+  "id": "Isabela Neamtu"
+ },
+ {
+  "id": "Dragos Olaru"
+ },
+ {
+  "id": "Lissandra Haulica"
+ },
+ {
+  "id": "Liviu Marghidan"
+ },
+ {
+  "id": "Audrey Bourdiol"
+ },
+ {
+  "id": "Antoine Rabaté"
+ },
+ {
+  "id": "Corina Stavila"
+ },
+ {
+  "id": "Andreea Nicolescu"
+ },
+ {
+  "id": "Oana Novicov"
+ },
+ {
+  "id": "Gabriel Bucur"
+ },
+ {
+  "id": "Ilinca Angelescu"
+ },
+ {
+  "id": "Domnica Bodogan"
+ },
+ {
+  "id": "Roxana Leotescu"
+ },
+ {
+  "id": "Vincent Arnardi"
+ },
+ {
+  "id": "Mihai Bogos"
+ },
+ {
+  "id": "Maria Carolina Santana Caraballo-Gramcko"
+ },
+ {
+  "id": "Andrei Stoian"
+ },
+ {
+  "id": "Ionel Popa"
+ },
+ {
+  "id": "Cosmin Padureanu"
+ },
+ {
+  "id": "Adrian Paduretu"
+ },
+ {
+  "id": "Ion Palcau"
+ },
+ {
+  "id": "Ivan Giany Roberto"
+ },
+ {
+  "id": "Paul Soare"
+ },
+ {
+  "id": "Petre Victor"
+ },
+ {
+  "id": "Elie Akoka"
+ },
+ {
+  "id": "Jocul asasinilor"
+ },
+ {
+  "id": "Ernie Barbarash"
+ },
+ {
+  "id": "Aaron Rahsaan Thomas"
+ },
+ {
+  "id": "Andra Barbuica"
+ },
+ {
+  "id": "Irina Matei"
+ },
+ {
+  "id": "Sandy Parker"
+ },
+ {
+  "id": "Jean-Claude Van Damme"
+ },
+ {
+  "id": "Scott Adkins"
+ },
+ {
+  "id": "Ivan Kaye"
+ },
+ {
+  "id": "Valentin Teodosiu"
+ },
+ {
+  "id": "Alin Panc"
+ },
+ {
+  "id": "Kevin Chapman"
+ },
+ {
+  "id": "Serban Celea"
+ },
+ {
+  "id": "Michael Higgs"
+ },
+ {
+  "id": "Kris Van Damme"
+ },
+ {
+  "id": "Marija Karan"
+ },
+ {
+  "id": "Bianca Brigitte Van Damme"
+ },
+ {
+  "id": "Andrew French"
+ },
+ {
+  "id": "Attila Árpa"
+ },
+ {
+  "id": "Marioara Sterian"
+ },
+ {
+  "id": "George Remes"
+ },
+ {
+  "id": "Anghel Cristian"
+ },
+ {
+  "id": "Salahadine H. Beztout"
+ },
+ {
+  "id": "Mario Marian"
+ },
+ {
+  "id": "Constantin Viscreanu"
+ },
+ {
+  "id": "Alexandra Apetrei"
+ },
+ {
+  "id": "Andrei Finti"
+ },
+ {
+  "id": "Loredana Groza"
+ },
+ {
+  "id": "Serbanescu Florin"
+ },
+ {
+  "id": "Kateryna Zakharchenko"
+ },
+ {
+  "id": "Catalin Radu Tanase"
+ },
+ {
+  "id": "Justin Bursch"
+ },
+ {
+  "id": "Maria-Antoaneta Tudor"
+ },
+ {
+  "id": "Maria Guzeeva"
+ },
+ {
+  "id": "Sabin Piso"
+ },
+ {
+  "id": "Julian Burns"
+ },
+ {
+  "id": "Florin Busuioc"
+ },
+ {
+  "id": "Sorin Cristea"
+ },
+ {
+  "id": "Ioana Pavelescu"
+ },
+ {
+  "id": "Relu Poalelungi"
+ },
+ {
+  "id": "Ruxandra Stanciu"
+ },
+ {
+  "id": "Claudiu Trandafir"
+ },
+ {
+  "id": "Jon Bailey"
+ },
+ {
+  "id": "Daniel Visan"
+ },
+ {
+  "id": "Niko El Santo Zavero"
+ },
+ {
+  "id": "Ryan H. Jackson"
+ },
+ {
+  "id": "Mark Bakunas"
+ },
+ {
+  "id": "Mike Callaghan"
+ },
+ {
+  "id": "Brad Krevoy"
+ },
+ {
+  "id": "Paul M. Leonard"
+ },
+ {
+  "id": "Reuben Liber"
+ },
+ {
+  "id": "Todd Moyer"
+ },
+ {
+  "id": "Philip Poole"
+ },
+ {
+  "id": "Gabriel Popescu"
+ },
+ {
+  "id": "Alison Semenza King"
+ },
+ {
+  "id": "Lane Shefter Bishop"
+ },
+ {
+  "id": "Nick Thurlow"
+ },
+ {
+  "id": "Gregory M. Walker"
+ },
+ {
+  "id": "Teo Bostanica"
+ },
+ {
+  "id": "Anthony Rolfes"
+ },
+ {
+  "id": "Cj Stewart"
+ },
+ {
+  "id": "Phil Parmet"
+ },
+ {
+  "id": "Peter Devaney Flanagan"
+ },
+ {
+  "id": "Paul Abelkis"
+ },
+ {
+  "id": "Gerri Sax Bove"
+ },
+ {
+  "id": "John Portnoy"
+ },
+ {
+  "id": "Adam Rowe"
+ },
+ {
+  "id": "Juan Soto"
+ },
+ {
+  "id": "Carolyn McLeod"
+ },
+ {
+  "id": "Mihai Ghior"
+ },
+ {
+  "id": "John Welbanks"
+ },
+ {
+  "id": "Anca Perja"
+ },
+ {
+  "id": "Stelian Anghelescu"
+ },
+ {
+  "id": "Marian Badea"
+ },
+ {
+  "id": "Paul Blanchard"
+ },
+ {
+  "id": "Gabriel Collins"
+ },
+ {
+  "id": "Viorel Constantinescu"
+ },
+ {
+  "id": "Radu George"
+ },
+ {
+  "id": "Cornel Nastase"
+ },
+ {
+  "id": "Vlad Panaitescu"
+ },
+ {
+  "id": "Dan Toma"
+ },
+ {
+  "id": "Jeremy Woolsey"
+ },
+ {
+  "id": "Brook Yeaton"
+ },
+ {
+  "id": "Liz Barker"
+ },
+ {
+  "id": "Zack Earl Edwards"
+ },
+ {
+  "id": "Ioana Corciova"
+ },
+ {
+  "id": "Laurentiu Alexe"
+ },
+ {
+  "id": "Eli Calin"
+ },
+ {
+  "id": "Jillian Ann Kreiner"
+ },
+ {
+  "id": "Diana Sav"
+ },
+ {
+  "id": "Krystal Kershaw"
+ },
+ {
+  "id": "Adrienne Lynn"
+ },
+ {
+  "id": "Manuela Pana"
+ },
+ {
+  "id": "Margo Stefan"
+ },
+ {
+  "id": "Andrea Dardea Tesdall"
+ },
+ {
+  "id": "Elena Tudor"
+ },
+ {
+  "id": "Gino Zamprioli"
+ },
+ {
+  "id": "Ilaria Zamprioli"
+ },
+ {
+  "id": "Florin Filipescu"
+ },
+ {
+  "id": "Mihaela Ionita"
+ },
+ {
+  "id": "Christopher Landry"
+ },
+ {
+  "id": "Ben LeDoux"
+ },
+ {
+  "id": "Patrick Newall"
+ },
+ {
+  "id": "Maria Nita"
+ },
+ {
+  "id": "Letitia Rosculet"
+ },
+ {
+  "id": "Stanimir Stamatov"
+ },
+ {
+  "id": "Olteanu Mihai"
+ },
+ {
+  "id": "Elena Tibichi"
+ },
+ {
+  "id": "A.J. Timmcke"
+ },
+ {
+  "id": "Neal Acree"
+ },
+ {
+  "id": "Joshua Adeniji"
+ },
+ {
+  "id": "Naomi Dandridge"
+ },
+ {
+  "id": "Jason Dotts"
+ },
+ {
+  "id": "Dobre Daniel"
+ },
+ {
+  "id": "Cameron O. Galloway"
+ },
+ {
+  "id": "Jerry Gilbert"
+ },
+ {
+  "id": "Steven Iba"
+ },
+ {
+  "id": "Paul B. Knox"
+ },
+ {
+  "id": "Ferenc Lukács"
+ },
+ {
+  "id": "Liviu Lupsa"
+ },
+ {
+  "id": "Lionel Strutt"
+ },
+ {
+  "id": "Carlos Wilkerson"
+ },
+ {
+  "id": "Rachel Grissom"
+ },
+ {
+  "id": "Laurie Ann Haus"
+ },
+ {
+  "id": "Christopher Violette"
+ },
+ {
+  "id": "Stegaru Adrian"
+ },
+ {
+  "id": "Nick Allder"
+ },
+ {
+  "id": "Liviu Lungu"
+ },
+ {
+  "id": "Adrian Popescu"
+ },
+ {
+  "id": "Draghici Bogdan"
+ },
+ {
+  "id": "Aurelian Cojocaru"
+ },
+ {
+  "id": "Nicolae-Gheorghe Cojocaru"
+ },
+ {
+  "id": "Adrian Costea"
+ },
+ {
+  "id": "Razvan Margineanu"
+ },
+ {
+  "id": "Felix Lepadatu"
+ },
+ {
+  "id": "Claudiu Olaru"
+ },
+ {
+  "id": "George Palcut"
+ },
+ {
+  "id": "Alexandru Ion Radu"
+ },
+ {
+  "id": "Jason Ripley"
+ },
+ {
+  "id": "D.J. Shea"
+ },
+ {
+  "id": "Tudor Cosmin Sirbulescu"
+ },
+ {
+  "id": "Lacramioara Vasiliu"
+ },
+ {
+  "id": "Aurelian Vulpasu"
+ },
+ {
+  "id": "Tony Willis"
+ },
+ {
+  "id": "Mihai Diaconu"
+ },
+ {
+  "id": "Marian Dumitru"
+ },
+ {
+  "id": "Serban Gabriel"
+ },
+ {
+  "id": "Duma Iulian"
+ },
+ {
+  "id": "Petre Marin"
+ },
+ {
+  "id": "Razvan Puiu"
+ },
+ {
+  "id": "Andrei Vintileanu"
+ },
+ {
+  "id": "Cos Aelenei"
+ },
+ {
+  "id": "Roxana Ardelean"
+ },
+ {
+  "id": "Dragos Badea"
+ },
+ {
+  "id": "Doru Baicu"
+ },
+ {
+  "id": "Dumitru Bogdan"
+ },
+ {
+  "id": "Mihaela Buruiana"
+ },
+ {
+  "id": "Aurel Burtea"
+ },
+ {
+  "id": "Joe Cassano"
+ },
+ {
+  "id": "Gilly Charbonnet"
+ },
+ {
+  "id": "Lucian Diaconu"
+ },
+ {
+  "id": "Alexandru Chitoroaga"
+ },
+ {
+  "id": "Bogdan Dumitru"
+ },
+ {
+  "id": "Alexandru Enache"
+ },
+ {
+  "id": "Gheorghe Enache"
+ },
+ {
+  "id": "Cosmin Fericeanu"
+ },
+ {
+  "id": "Titi Gavrila"
+ },
+ {
+  "id": "Marius Ivascu"
+ },
+ {
+  "id": "Stefan Hillerin"
+ },
+ {
+  "id": "McKay Johnson"
+ },
+ {
+  "id": "Scott Luttrell"
+ },
+ {
+  "id": "Phillipe Malita"
+ },
+ {
+  "id": "Stefan Mangir"
+ },
+ {
+  "id": "Lee McLemore"
+ },
+ {
+  "id": "Mike McLaughlin"
+ },
+ {
+  "id": "Aurel Militaru"
+ },
+ {
+  "id": "Granaru Mihai"
+ },
+ {
+  "id": "Ionut Neculce"
+ },
+ {
+  "id": "Mihai Alfredo Parvu"
+ },
+ {
+  "id": "Razvan Paslaru"
+ },
+ {
+  "id": "Marian Pisau"
+ },
+ {
+  "id": "Liviu Popa"
+ },
+ {
+  "id": "Alex Popescu"
+ },
+ {
+  "id": "Cornel Popescu"
+ },
+ {
+  "id": "Alexandru Popescu"
+ },
+ {
+  "id": "Luke Porterfield"
+ },
+ {
+  "id": "Trey Shaneyfelt"
+ },
+ {
+  "id": "Jessica Sims"
+ },
+ {
+  "id": "Octavian Sotir"
+ },
+ {
+  "id": "Bogdan Stanciu"
+ },
+ {
+  "id": "Ionut Voicu"
+ },
+ {
+  "id": "Toni Weick"
+ },
+ {
+  "id": "Matei, copil miner"
+ },
+ {
+  "id": "Mariana Lina"
+ },
+ {
+  "id": "Alexandru Czuli"
+ },
+ {
+  "id": "Remus Margineanu"
+ },
+ {
+  "id": "Claudiu Ababei"
+ },
+ {
+  "id": "Izidor-Sorin Caranja"
+ },
+ {
+  "id": "Mirela Cioaba"
+ },
+ {
+  "id": "Emanuele Curro"
+ },
+ {
+  "id": "Rodica Ionescu"
+ },
+ {
+  "id": "Ioana Ana Macaria"
+ },
+ {
+  "id": "Ana Matei"
+ },
+ {
+  "id": "Valentin Mihali"
+ },
+ {
+  "id": "Irina Naum"
+ },
+ {
+  "id": "Ada Navrot"
+ },
+ {
+  "id": "Tania Popa"
+ },
+ {
+  "id": "Cornel Scripcaru"
+ },
+ {
+  "id": "Radu Tudor"
+ },
+ {
+  "id": "André Bendocchi-Alves"
+ },
+ {
+  "id": "Thomas Ciulei"
+ },
+ {
+  "id": "Eugen Dinca"
+ },
+ {
+  "id": "Claudia Enzmann"
+ },
+ {
+  "id": "Céline Maugis"
+ },
+ {
+  "id": "Florian Schneider"
+ },
+ {
+  "id": "Reinhold Vorschneider"
+ },
+ {
+  "id": "Alexandra Gulea"
+ },
+ {
+  "id": "Peter Przygodda"
+ },
+ {
+  "id": "Bruno Tracq"
+ },
+ {
+  "id": "Alex Bogdan"
+ },
+ {
+  "id": "Mihaela Poenaru"
+ },
+ {
+  "id": "Negoita Mihai"
+ },
+ {
+  "id": "Monica Florescu"
+ },
+ {
+  "id": "Adriana Itu"
+ },
+ {
+  "id": "Vladimir Nitescu"
+ },
+ {
+  "id": "Ciprian Panaite"
+ },
+ {
+  "id": "Stephane Karo"
+ },
+ {
+  "id": "Joo Fürst"
+ },
+ {
+  "id": "Radu Stancu"
+ },
+ {
+  "id": "Attila Nemes"
+ },
+ {
+  "id": "Lucian Tiganus"
+ },
+ {
+  "id": "Ionut Corbea"
+ },
+ {
+  "id": "Marian Ciocan"
+ },
+ {
+  "id": "Andrei Cretan"
+ },
+ {
+  "id": "Daniel Dobrica"
+ },
+ {
+  "id": "Vladimir Iancu"
+ },
+ {
+  "id": "Nicu Ilfoveanu"
+ },
+ {
+  "id": "Dan Lita"
+ },
+ {
+  "id": "Ionel ' Bebe' Mandruta"
+ },
+ {
+  "id": "Walking with the Enemy"
+ },
+ {
+  "id": "Mark Schmidt"
+ },
+ {
+  "id": "Kenny Golde"
+ },
+ {
+  "id": "Richard Lasser"
+ },
+ {
+  "id": "Jack Snyder"
+ },
+ {
+  "id": "Patrick Million"
+ },
+ {
+  "id": "Vitalie Bichir"
+ },
+ {
+  "id": "Florin Arhip"
+ },
+ {
+  "id": "Jonas Armstrong"
+ },
+ {
+  "id": "David Leon"
+ },
+ {
+  "id": "Hannah Tointon"
+ },
+ {
+  "id": "Flora Spencer-Longhurst"
+ },
+ {
+  "id": "Mark Wells"
+ },
+ {
+  "id": "Michelle Miklosey"
+ },
+ {
+  "id": "Jeffrey C. Hawkins"
+ },
+ {
+  "id": "George Icleanu"
+ },
+ {
+  "id": "Vlad Radescu"
+ },
+ {
+  "id": "Naomi Capron"
+ },
+ {
+  "id": "Avila Schmidt"
+ },
+ {
+  "id": "Ann-Marie Schmidt"
+ },
+ {
+  "id": "Simon Kunz"
+ },
+ {
+  "id": "Gay Hamilton"
+ },
+ {
+  "id": "Charles Hubbell"
+ },
+ {
+  "id": "Jonty Stephens"
+ },
+ {
+  "id": "Andrei Aradits"
+ },
+ {
+  "id": "Ken Bones"
+ },
+ {
+  "id": "Charles De'Ath"
+ },
+ {
+  "id": "Richard Albrecht"
+ },
+ {
+  "id": "Robert Jezek"
+ },
+ {
+  "id": "Heather Bleasdale"
+ },
+ {
+  "id": "Jade Moulla"
+ },
+ {
+  "id": "Marco Alfieri"
+ },
+ {
+  "id": "Alexandru Suciu"
+ },
+ {
+  "id": "Stefan Velniciuc"
+ },
+ {
+  "id": "Mark Wingett"
+ },
+ {
+  "id": "Mihai Stanescu"
+ },
+ {
+  "id": "Tom Bacon"
+ },
+ {
+  "id": "Simon Hepworth"
+ },
+ {
+  "id": "Patrick Toomey"
+ },
+ {
+  "id": "Burn Gorman"
+ },
+ {
+  "id": "Ben Kingsley"
+ },
+ {
+  "id": "Shane Taylor"
+ },
+ {
+  "id": "William Hope"
+ },
+ {
+  "id": "Oana Draghici"
+ },
+ {
+  "id": "Stephen Marzella"
+ },
+ {
+  "id": "Simon Dutton"
+ },
+ {
+  "id": "Christopher Williams"
+ },
+ {
+  "id": "David Jon Wilson"
+ },
+ {
+  "id": "Dan Hembal"
+ },
+ {
+  "id": "Constantin Florescu"
+ },
+ {
+  "id": "Casey Clem"
+ },
+ {
+  "id": "Laura-Nora Dinca"
+ },
+ {
+  "id": "Stefan Iancu"
+ },
+ {
+  "id": "Sabina Branduse"
+ },
+ {
+  "id": "Oltin Hurezeanu"
+ },
+ {
+  "id": "Ralph Brown"
+ },
+ {
+  "id": "Christopher Adlington"
+ },
+ {
+  "id": "Bogdan Farcas"
+ },
+ {
+  "id": "Bogdan Mancea"
+ },
+ {
+  "id": "Andrew Brooke"
+ },
+ {
+  "id": "Shaun Schmidt"
+ },
+ {
+  "id": "Andrei Demeter"
+ },
+ {
+  "id": "Paul Dumitrescu"
+ },
+ {
+  "id": "Giles Alderson"
+ },
+ {
+  "id": "Robert Lonsdale"
+ },
+ {
+  "id": "Andrei Mateiu"
+ },
+ {
+  "id": "Karl Backus"
+ },
+ {
+  "id": "Graham Powell"
+ },
+ {
+  "id": "Florin Nica"
+ },
+ {
+  "id": "Ioana Picos"
+ },
+ {
+  "id": "Alexandra Coman"
+ },
+ {
+  "id": "Irina Saulescu"
+ },
+ {
+  "id": "Aaron Kissinger"
+ },
+ {
+  "id": "Florian Ghimpu"
+ },
+ {
+  "id": "Ioana Abur"
+ },
+ {
+  "id": "Mark Colleano"
+ },
+ {
+  "id": "Chrissie Cotterill"
+ },
+ {
+  "id": "Marian Trasca"
+ },
+ {
+  "id": "Catalin Paraschiv"
+ },
+ {
+  "id": "Jose Fillipi"
+ },
+ {
+  "id": "Andrei Runcanu"
+ },
+ {
+  "id": "Estera Zainea"
+ },
+ {
+  "id": "Eadu Campean"
+ },
+ {
+  "id": "Debora Zainea"
+ },
+ {
+  "id": "Asier Newman"
+ },
+ {
+  "id": "Diana Lolescu"
+ },
+ {
+  "id": "Chad Gibbs"
+ },
+ {
+  "id": "Diego Josef"
+ },
+ {
+  "id": "Brooke McCormick"
+ },
+ {
+  "id": "Cristian Motiu"
+ },
+ {
+  "id": "Alan O'Silva"
+ },
+ {
+  "id": "Alex Purje"
+ },
+ {
+  "id": "Brian Schmidt"
+ },
+ {
+  "id": "Sunny D. Smith"
+ },
+ {
+  "id": "Szabolcs Tyukodi"
+ },
+ {
+  "id": "István Téglás"
+ },
+ {
+  "id": "Roxanna Ravenor Yamamoto"
+ },
+ {
+  "id": "Cristian Bostanescu"
+ },
+ {
+  "id": "D. Scott Trawick"
+ },
+ {
+  "id": "Karl J. Deitch"
+ },
+ {
+  "id": "Caryn Drake"
+ },
+ {
+  "id": "Lucia Pavlovschi"
+ },
+ {
+  "id": "Dean Cundey"
+ },
+ {
+  "id": "Eric L. Beason"
+ },
+ {
+  "id": "Richard Nord"
+ },
+ {
+  "id": "Anis Doroftei"
+ },
+ {
+  "id": "Daniel Edwards"
+ },
+ {
+  "id": "Floriela Grapini"
+ },
+ {
+  "id": "Adrian Curelea"
+ },
+ {
+  "id": "Gina Calin"
+ },
+ {
+  "id": "Eugen Anghelescu"
+ },
+ {
+  "id": "Scantei Cosmin-Catalin"
+ },
+ {
+  "id": "Bostina Florin"
+ },
+ {
+  "id": "Viorel Ghenea"
+ },
+ {
+  "id": "Adi Handac"
+ },
+ {
+  "id": "Petre Ionut"
+ },
+ {
+  "id": "Catalin Martis"
+ },
+ {
+  "id": "Iasar Memedali"
+ },
+ {
+  "id": "Matei Niculescu"
+ },
+ {
+  "id": "Paul Ruiz"
+ },
+ {
+  "id": "Cosmin Serban"
+ },
+ {
+  "id": "Mugur Szabo"
+ },
+ {
+  "id": "George Vasile"
+ },
+ {
+  "id": "Oana Paunescu"
+ },
+ {
+  "id": "Laura Ciobanu"
+ },
+ {
+  "id": "Ana Maria Cucu"
+ },
+ {
+  "id": "Patrick Sean Green"
+ },
+ {
+  "id": "Carmen Ilie"
+ },
+ {
+  "id": "Angela Tarzioru"
+ },
+ {
+  "id": "Alexandra Barladeanu"
+ },
+ {
+  "id": "Daniela Busoiu"
+ },
+ {
+  "id": "Musat Claudia"
+ },
+ {
+  "id": "Mark Garbarino"
+ },
+ {
+  "id": "Deb Garcia"
+ },
+ {
+  "id": "Letitia Ghenea"
+ },
+ {
+  "id": "Joyce A. Henriquez"
+ },
+ {
+  "id": "Tara Lang"
+ },
+ {
+  "id": "Jamie Leodones"
+ },
+ {
+  "id": "Madalina Bugeanu"
+ },
+ {
+  "id": "Ana Maria Bulata"
+ },
+ {
+  "id": "Adrian Conerth"
+ },
+ {
+  "id": "Mircea Hategan"
+ },
+ {
+  "id": "Amalia Morar"
+ },
+ {
+  "id": "Oana Morar"
+ },
+ {
+  "id": "Stefan Petcu"
+ },
+ {
+  "id": "Irina Petrescu"
+ },
+ {
+  "id": "Irina Teodorov"
+ },
+ {
+  "id": "Randy Williams"
+ },
+ {
+  "id": "Tim Williams"
+ },
+ {
+  "id": "Marius Emil Stanescu"
+ },
+ {
+  "id": "Lisa K. Fowle"
+ },
+ {
+  "id": "Cameron Frankley"
+ },
+ {
+  "id": "Jessica Gallavan"
+ },
+ {
+  "id": "Jason W. Jennings"
+ },
+ {
+  "id": "Harrison Meyle"
+ },
+ {
+  "id": "Jon Michaels"
+ },
+ {
+  "id": "Thomas J. O'Connell"
+ },
+ {
+  "id": "Steve Pederson"
+ },
+ {
+  "id": "Nicolae Radu"
+ },
+ {
+  "id": "A. Josh Reinhardt"
+ },
+ {
+  "id": "Michael Santopolo"
+ },
+ {
+  "id": "Dragos Stanomir"
+ },
+ {
+  "id": "Noel Vought"
+ },
+ {
+  "id": "Ryan Young"
+ },
+ {
+  "id": "Doru Cretu"
+ },
+ {
+  "id": "Richard Hogue"
+ },
+ {
+  "id": "George Petrache"
+ },
+ {
+  "id": "Mihai Reti"
+ },
+ {
+  "id": "Florin Stoian"
+ },
+ {
+  "id": "Henry Borrasso"
+ },
+ {
+  "id": "Melissa Brockman"
+ },
+ {
+  "id": "Glenn Campbell"
+ },
+ {
+  "id": "Jeffrey Jasper"
+ },
+ {
+  "id": "Jeffrey Kalmus"
+ },
+ {
+  "id": "Tim McHugh"
+ },
+ {
+  "id": "Maksim Solonovich"
+ },
+ {
+  "id": "Maksims Solonvich"
+ },
+ {
+  "id": "Ryan Trenhaile"
+ },
+ {
+  "id": "Joe Young"
+ },
+ {
+  "id": "Joseph Young"
+ },
+ {
+  "id": "Florin Barcun"
+ },
+ {
+  "id": "Aurel Boata"
+ },
+ {
+  "id": "Vlad Clontea"
+ },
+ {
+  "id": "Ionut Cotruta"
+ },
+ {
+  "id": "George Cretu"
+ },
+ {
+  "id": "Scott Danielson"
+ },
+ {
+  "id": "Doru Dumitrescu"
+ },
+ {
+  "id": "Iulian Florian"
+ },
+ {
+  "id": "Marius Florian"
+ },
+ {
+  "id": "Mihai Iliescu"
+ },
+ {
+  "id": "Catalin Mancafa"
+ },
+ {
+  "id": "Ovidiu Marculescu"
+ },
+ {
+  "id": "Ionut Neagu"
+ },
+ {
+  "id": "Mihaela Elena Oros"
+ },
+ {
+  "id": "Dumitru Stancu Petre"
+ },
+ {
+  "id": "Daniel Pisica"
+ },
+ {
+  "id": "Andrew Prather"
+ },
+ {
+  "id": "Ana Maria Radu"
+ },
+ {
+  "id": "Valentin Raileanu"
+ },
+ {
+  "id": "Andreea Stoica"
+ },
+ {
+  "id": "Florin Stroe"
+ },
+ {
+  "id": "Andreas Tihanyi"
+ },
+ {
+  "id": "Daniel Tomescu"
+ },
+ {
+  "id": "Valeriu Tomescu"
+ },
+ {
+  "id": "Mihai Ungureanu"
+ },
+ {
+  "id": "Fanel Ursu"
+ },
+ {
+  "id": "Calin Catalin"
+ },
+ {
+  "id": "Catalin Chiorean"
+ },
+ {
+  "id": "Catalin Ciobanu"
+ },
+ {
+  "id": "Daniel Ciobanu"
+ },
+ {
+  "id": "Daniel Cosor"
+ },
+ {
+  "id": "William Coss"
+ },
+ {
+  "id": "Ciobanu Daniel"
+ },
+ {
+  "id": "Claudia Dragan"
+ },
+ {
+  "id": "Eugen Dumitru"
+ },
+ {
+  "id": "Gavin Garrison"
+ },
+ {
+  "id": "Sorin Gociu"
+ },
+ {
+  "id": "Diana Iacomir"
+ },
+ {
+  "id": "Radu Ion"
+ },
+ {
+  "id": "Andrei Karastanef"
+ },
+ {
+  "id": "Catalin Kislinger"
+ },
+ {
+  "id": "Daniel Kosuth"
+ },
+ {
+  "id": "Gabriel Kosuth"
+ },
+ {
+  "id": "Laurentiu Marcu"
+ },
+ {
+  "id": "Gabriela Moraru"
+ },
+ {
+  "id": "Florin Nicola"
+ },
+ {
+  "id": "Liviu Oborogeanu"
+ },
+ {
+  "id": "Michael Orefice"
+ },
+ {
+  "id": "Pãtru Pãunescu"
+ },
+ {
+  "id": "Viorel Radu"
+ },
+ {
+  "id": "Adrian Raduta"
+ },
+ {
+  "id": "David Richert"
+ },
+ {
+  "id": "Valentin Simeonov"
+ },
+ {
+  "id": "Gavin Struthers"
+ },
+ {
+  "id": "Petre Surugiu"
+ },
+ {
+  "id": "Sorin Udrea"
+ },
+ {
+  "id": "Ion Vasilescu"
+ },
+ {
+  "id": "David Bernstein"
+ },
+ {
+  "id": "Vaughn Bien III"
+ },
+ {
+  "id": "Tom Duty"
+ },
+ {
+  "id": "Jason Fabbro"
+ },
+ {
+  "id": "David E. Franks"
+ },
+ {
+  "id": "Ilinca Nanoveanu"
+ },
+ {
+  "id": "Jeff Olm"
+ },
+ {
+  "id": "Mihai Cosmin Popa"
+ },
+ {
+  "id": "Robbie Renfrow"
+ },
+ {
+  "id": "Matteo Saradini"
+ },
+ {
+  "id": "Evan Schneider"
+ },
+ {
+  "id": "Dennis Thorlaksen"
+ },
+ {
+  "id": "Andrew J. Wahlquist"
+ },
+ {
+  "id": "Christine Dougherty"
+ },
+ {
+  "id": "Prowl"
+ },
+ {
+  "id": "Alexandra Balteanu"
+ },
+ {
+  "id": "Xandra Popescu"
+ },
+ {
+  "id": "Corina Moise"
+ },
+ {
+  "id": "Iulia Ciochina"
+ },
+ {
+  "id": "Stanislav Danylyshyn"
+ },
+ {
+  "id": "Iulia Stoianovici"
+ },
+ {
+  "id": "Matan Radin"
+ },
+ {
+  "id": "Antonella Sarubbi"
+ },
+ {
+  "id": "Samuel Mihailovici"
+ },
+ {
+  "id": "Roxana Irina Rusu"
+ },
+ {
+  "id": "Andreea Tinica"
+ },
+ {
+  "id": "Alexandru Potop"
+ },
+ {
+  "id": "Bianca Rotaru"
+ },
+ {
+  "id": "Geogiana Ilas"
+ },
+ {
+  "id": "Roxana Radeanu"
+ },
+ {
+  "id": "Nimrod Gilboa"
+ },
+ {
+  "id": "Tobias Mahlstedt"
+ },
+ {
+  "id": "Theo Costea"
+ },
+ {
+  "id": "Sarah Handelmann"
+ },
+ {
+  "id": "Hendrik Kintscher"
+ },
+ {
+  "id": "Ana, mon amour"
+ },
+ {
+  "id": "Calin Peter Netzer"
+ },
+ {
+  "id": "Cezar Paul-Badescu"
+ },
+ {
+  "id": "Mircea Postelnicu"
+ },
+ {
+  "id": "Diana Cavallioti"
+ },
+ {
+  "id": "Igor Caras-Romanov"
+ },
+ {
+  "id": "Vasile Muraru"
+ },
+ {
+  "id": "Ionut Caras"
+ },
+ {
+  "id": "Mihaela Ciuchea"
+ },
+ {
+  "id": "Viorel Comanici"
+ },
+ {
+  "id": "Alexandru Marcu"
+ },
+ {
+  "id": "Eric Buza"
+ },
+ {
+  "id": "Rodrigo Cravo"
+ },
+ {
+  "id": "Razvan Vasilescu"
+ },
+ {
+  "id": "Varlan Maria Veronica"
+ },
+ {
+  "id": "Meda Andreea"
+ },
+ {
+  "id": "Augustin Pop"
+ },
+ {
+  "id": "Amalia Ciolan"
+ },
+ {
+  "id": "Florin Grigoras"
+ },
+ {
+  "id": "Catalina Moga"
+ },
+ {
+  "id": "Andreea Coff"
+ },
+ {
+  "id": "Constantin Dinulescu"
+ },
+ {
+  "id": "Claudiu Istodor"
+ },
+ {
+  "id": "Elena Voineag"
+ },
+ {
+  "id": "Elvira Deatcu"
+ },
+ {
+  "id": "Ana Maria Donose"
+ },
+ {
+  "id": "Alex Pavel"
+ },
+ {
+  "id": "Andrei Hutuleac"
+ },
+ {
+  "id": "Anghel Damian"
+ },
+ {
+  "id": "Irina Noaptes"
+ },
+ {
+  "id": "Mihai Grecescu"
+ },
+ {
+  "id": "Sorin Leota"
+ },
+ {
+  "id": "Titus Popescu"
+ },
+ {
+  "id": "Geanina Bont"
+ },
+ {
+  "id": "Evelina Andries"
+ },
+ {
+  "id": "Bogdan Olarson"
+ },
+ {
+  "id": "Alexandru Petrovici"
+ },
+ {
+  "id": "Laurentiu Damian"
+ },
+ {
+  "id": "Sophie Dulac"
+ },
+ {
+  "id": "Jonas Katzenstein"
+ },
+ {
+  "id": "Maximilian Leo"
+ },
+ {
+  "id": "Cristian Nicolescu"
+ },
+ {
+  "id": "Michel Zana"
+ },
+ {
+  "id": "Andreea Ignat"
+ },
+ {
+  "id": "Radu Dragoi"
+ },
+ {
+  "id": "Augustina Stanciu"
+ },
+ {
+  "id": "Ada Radu"
+ },
+ {
+  "id": "Ioana Somanescu"
+ },
+ {
+  "id": "Dana Angelescu"
+ },
+ {
+  "id": "Luiza Burhai"
+ },
+ {
+  "id": "Heike Ersfeld"
+ },
+ {
+  "id": "Christina Paul"
+ },
+ {
+  "id": "Laurentiu Craciun"
+ },
+ {
+  "id": "Ingrid Cristea"
+ },
+ {
+  "id": "Ovidiu Paunescu"
+ },
+ {
+  "id": "Sophie Chiabaut"
+ },
+ {
+  "id": "Laurence Kurzer"
+ },
+ {
+  "id": "André Rigaut"
+ },
+ {
+  "id": "Pierre Simion"
+ },
+ {
+  "id": "Laura Anca Adascalitei"
+ },
+ {
+  "id": "Razvan Dit"
+ },
+ {
+  "id": "Mihaela Magopat"
+ },
+ {
+  "id": "Ciprian Dumitrascu"
+ },
+ {
+  "id": "Sandu Constantin"
+ },
+ {
+  "id": "Anton George"
+ },
+ {
+  "id": "Laurentiu Gabriel Harasim"
+ },
+ {
+  "id": "Catalin Nica"
+ },
+ {
+  "id": "Florin Niculae"
+ },
+ {
+  "id": "Liviu Popescu"
+ },
+ {
+  "id": "Florin Sora"
+ },
+ {
+  "id": "Mariuca Teodoru"
+ }
+    
+  ],
+ "links": [
+
+ {
+  "source": "Iulia Lumânare",
+  "target": "Familiar",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Cãlin Peter Netzer",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Emanuel Parvu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Ana Ciontea",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Adrian Titieni",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Vlad Ivanov",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Victoria Ecaterina Moraru",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Lucian Ifrim",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Bogdan Voda",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Clara Voda",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Pierrick Baudouin",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Stefano Centini",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Chu-Ti Chang",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Tom Dercourt",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Mike Downey",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Sophie Erbs",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Oana Iancu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Theo Nissim",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Dan Ciocazan",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Alexandru Iliescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Delia Marcu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Moritz Schneider",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Barbu Balasoiu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Andrei Butica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Dana Bunescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Bogdan Miron",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Preda Nicolae",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Ioana Covalcic",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Judy Shrewsbury",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Gabi Cretan",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Paraschiv Oana",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Nicoleta Petrache",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Cristina Temelie",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Iuliana Temelie",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Andrei Enoiu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Ami Geger",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Mihnea Vonica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Andrei Armaselu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Gabi Bucur",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Robert Grumeza",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Marian Pîrvu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Annabel Acquaviva",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Dana Farzanehpour",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Iolanda Girleanu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Pascal Mazière",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Cristinel Sirli",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Florin Tabacaru",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Ciprian Visan",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Iordache",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Nicolae Constantin",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Calin Ferezan",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Razvan Horse",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Catalin Iacob",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Dario Andreescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Octavian Andreescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Lupsa Armand",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Radu Barbu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Boroka Biro",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Razvan Cretan",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Liviu Darescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Florin Ene",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Ilie Georgica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Matei Ioncica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Mielu Moldoveanu Constantin",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Cosmin Popescu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Sorin Stanciu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Aurelian Stoica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Catalin Stoica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Yi-Hsun Chiang",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Alexandru Stoica",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Alina Apostu",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Daniel Oprea",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Mihai Popa",
+  "value": 1
+ },
+ {
+  "source": "Familiar",
+  "target": "Corinna Vick",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Beginning",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Razvan Savescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Alexandru Popa",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ionut Achivoaie",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Elias Ferkin",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ioana Flora",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Mirela Gorea",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Sabina Nadiana Grigoriu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ela Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Constantin Lupescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Adela Marghidan",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Vlad Zamfirescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ruxandra Flonta",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Liviu Mãrghidan",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Viorel Chesaru",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Bogdan Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Adriana Craciunescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Tudor D. Popescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Amalia Spalatelu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ramona Geaman",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Andrei Stefanescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Dani Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Alexandru Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Razvan Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Bogdan Ivanovici",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Ciprian Visan",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Radu Bondoc",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Bogdan Rucareanu",
+  "value": 1
+ },
+ {
+  "source": "Beginning",
+  "target": "Mircea Valentin",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Si atunci, ce e libertatea?",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Andrei Zincã",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Ana Blandiana",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Olimpia Melinte",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Nicodim Ungureanu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Serban Georgevici",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Radu Bânzaru",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Magda Catone",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Radu Ciobanasu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Toma Cuzin",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Teodor Falcon",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Radu Iacoban",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Dorina Lazar",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Axel Moustache",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Cristian Popa",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Tunde Skovran",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Calin Papura",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Adrian Moroca",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Cornelia Stefan",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Tudor Vladimir Panduru",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Edith Weil",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Catalin Miloiu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Laurent Morel",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Mihaela Nastase",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Carmina Penes",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Dan Safta",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Nicoleta Cirnu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Camelia Borcan",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Beti Facaianu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Gabriela Gociu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Lidia Ivanov",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Nicoleta Petrache",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "George Gugulici",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Ciprian Nistorescu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Marian Sarbu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Daniel Szabo",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Nelu Bain",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Bastien Benkhelil",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Igor Comes",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Mirel Cristea",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Razvan Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Florin Mandra",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Florian Stoica",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "György Mohai",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Maria Raducanu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Liviu Dinu",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Alexandru-Alin Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Salomon Gill",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Arturo Zuñiga",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Anghel Decca",
+  "value": 1
+ },
+ {
+  "source": "Si atunci, ce e libertatea?",
+  "target": "Sharath Chandra Subramanyam",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Cărturan",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Liviu Sandulescu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Bogdan Adrian Toma",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Alexandra Botau",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Teodor Corban",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Dana Dogaru",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Cristina Flutur",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Marcel Cobzariu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Adrian Titieni",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Vlad Popescu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Tudor Bratucu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Sergiu Costache",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Silvia Gisca",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Violeta Haret-Popa",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Codin Maticiuc",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Elvira Rimbu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Carmen Tanase",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Jörgen Andersson",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Anthony Muir",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Anca Puiu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Smaranda Puiu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Kjell Åhlund",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Octavian Grigore",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Serban Rogoveanu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Oleg Mutu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Fateh Shams",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Ion Ioachim Stroe",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Gabi Bucur",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Bogdan Miron",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Preda Nicolae",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Alexandra 'Alma' Ungureanu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Dana Anghel",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Raluca Badea",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Madalina Pletoianu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Francisca Vass",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Loredana Badila",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Serban Racoviteanu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Mats Adler",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Bogdan Geambasu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Mariuca Petre",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Hasan Nasser",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Gustaf Berger",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Jesper Miller",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Lars Wignell",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Georgiana Neagu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Christer Engström",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Pompiliu Avram",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Dan Balan",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Valentin Goran",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Mihai Burtan",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Benjamin Sandu",
+  "value": 1
+ },
+ {
+  "source": "Cărturan",
+  "target": "Stefan Barsan",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Caravana cinematografică",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Titus Muntean",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Dorian Boguta",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Eduard Cirlan",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Mircea Diaconu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Ovidiu Ghinita",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Alexandru Georgescu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Mihai Motoiu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Cristian Szekeres",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Nicolae Urs",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Melania Ursu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Oana Giurgiu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Tudor Giurgiu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Jens Körner",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Alexandru Costin Stefan",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Alina Tapardel",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Dana Boghean-Melconian",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Vivi Dragan Vasile",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Andu Radu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Claudiu Doaga",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Laura Grosu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Liliana Toma",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Christian Niculescu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Geaniloni Sandru",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Maria Muscalu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Viorica Petrovici",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Dana Roseanu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Iulia Roseanu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Daniel Barbulescu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Adriana Racasan",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Nicolae Comarzan",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Olaf Mehl",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Sebastian Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Cristian Tarnovetchi",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Christoph Wieczorek",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Vasile Sirli",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Cristiana Apostol",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Butnariu Daniel",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Cristian Dragos",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Ancuta Iordachescu",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Stefan Tarzioru",
+  "value": 1
+ },
+ {
+  "source": "Caravana cinematografică",
+  "target": "Liviu Pojoni Jr.",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Pororoca",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Constantin Popescu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Bogdan Dumitrache",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Constantin Dogioiu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Stefan Raus",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Adela Marghidan",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ionut Achivoaie",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Alice Cora Mihalache",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Isabela Neamtu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Dragos Olaru",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ruxandra Flonta",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Lissandra Haulica",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Liviu Marghidan",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Audrey Bourdiol",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Antoine Rabaté",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Corina Stavila",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Andreea Nicolescu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Oana Novicov",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Gabriel Bucur",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Alexandra 'Alma' Ungureanu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ilinca Angelescu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Domnica Bodogan",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Iulia Roseanu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Roxana Leotescu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Vincent Arnardi",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Mihai Bogos",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Maria Carolina Santana Caraballo-Gramcko",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Andrei Stoian",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ionel Popa",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Cosmin Padureanu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Adrian Paduretu",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ion Palcau",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Ivan Giany Roberto",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Paul Soare",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Mircea Valentin",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Petre Victor",
+  "value": 1
+ },
+ {
+  "source": "Pororoca",
+  "target": "Elie Akoka",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Jocul asasinilor",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ernie Barbarash",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aaron Rahsaan Thomas",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Andra Barbuica",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Irina Matei",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Sandy Parker",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jean-Claude Van Damme",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Scott Adkins",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ivan Kaye",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Valentin Teodosiu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alin Panc",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Kevin Chapman",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Serban Celea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Michael Higgs",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Kris Van Damme",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marija Karan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Bianca Brigitte Van Damme",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Andrew French",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Attila Árpa",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marioara Sterian",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "George Remes",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Anghel Cristian",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Salahadine H. Beztout",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mario Marian",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Constantin Viscreanu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alexandra Apetrei",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Andrei Finti",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Loredana Groza",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Serbanescu Florin",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Kateryna Zakharchenko",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Catalin Radu Tanase",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Justin Bursch",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Maria-Antoaneta Tudor",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Maria Guzeeva",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Sabin Piso",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Julian Burns",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Florin Busuioc",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Sorin Cristea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ioana Pavelescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Relu Poalelungi",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ruxandra Stanciu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Claudiu Trandafir",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jon Bailey",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Daniel Visan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Niko El Santo Zavero",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ryan H. Jackson",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mark Bakunas",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mike Callaghan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Brad Krevoy",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Paul M. Leonard",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Reuben Liber",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Todd Moyer",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Philip Poole",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gabriel Popescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alison Semenza King",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Lane Shefter Bishop",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Nick Thurlow",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gregory M. Walker",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Teo Bostanica",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Anthony Rolfes",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cj Stewart",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Phil Parmet",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Peter Devaney Flanagan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Paul Abelkis",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gerri Sax Bove",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "John Portnoy",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Adam Rowe",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Juan Soto",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Carolyn McLeod",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mihai Ghior",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Laura Grosu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Liliana Toma",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "John Welbanks",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Anca Perja",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Stelian Anghelescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marian Badea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Paul Blanchard",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gabriel Collins",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Viorel Constantinescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Radu George",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cornel Nastase",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Vlad Panaitescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Dan Toma",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jeremy Woolsey",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Brook Yeaton",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Liz Barker",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Zack Earl Edwards",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ioana Corciova",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Laurentiu Alexe",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Eli Calin",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jillian Ann Kreiner",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Diana Sav",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Krystal Kershaw",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Adrienne Lynn",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Manuela Pana",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Margo Stefan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Andrea Dardea Tesdall",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Elena Tudor",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gino Zamprioli",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ilaria Zamprioli",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Florin Filipescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mihaela Ionita",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Christopher Landry",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ben LeDoux",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Patrick Newall",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Maria Nita",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Letitia Rosculet",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Stanimir Stamatov",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Olteanu Mihai",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Elena Tibichi",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "A.J. Timmcke",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Neal Acree",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Joshua Adeniji",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Nicolae Comarzan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Naomi Dandridge",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mirel Cristea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jason Dotts",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Dobre Daniel",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cameron O. Galloway",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jerry Gilbert",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Steven Iba",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Paul B. Knox",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ferenc Lukács",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Liviu Lupsa",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Florian Stoica",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Lionel Strutt",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cristian Tarnovetchi",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Carlos Wilkerson",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Rachel Grissom",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Laurie Ann Haus",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Christopher Violette",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Stegaru Adrian",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Nick Allder",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Liviu Lungu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Adrian Popescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Draghici Bogdan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aurelian Cojocaru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Nicolae-Gheorghe Cojocaru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Adrian Costea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Razvan Margineanu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Felix Lepadatu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Claudiu Olaru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "George Palcut",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alexandru Ion Radu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jason Ripley",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "D.J. Shea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Tudor Cosmin Sirbulescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Lacramioara Vasiliu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aurelian Vulpasu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Tony Willis",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mihai Diaconu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marian Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Serban Gabriel",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Duma Iulian",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Petre Marin",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Razvan Puiu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Andrei Vintileanu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cos Aelenei",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Roxana Ardelean",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Dragos Badea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Doru Baicu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Dumitru Bogdan",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mihaela Buruiana",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aurel Burtea",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Joe Cassano",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gilly Charbonnet",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Lucian Diaconu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alexandru Chitoroaga",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Bogdan Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alexandru Enache",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Gheorghe Enache",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cosmin Fericeanu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Titi Gavrila",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marius Ivascu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Stefan Hillerin",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "McKay Johnson",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Scott Luttrell",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Phillipe Malita",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Stefan Mangir",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Lee McLemore",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mike McLaughlin",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aurel Militaru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Granaru Mihai",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ionut Neculce",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Mihai Alfredo Parvu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Razvan Paslaru",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Marian Pisau",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Liviu Popa",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alex Popescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Cornel Popescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Alexandru Popescu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Luke Porterfield",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ivan Giany Roberto",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Trey Shaneyfelt",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Jessica Sims",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Octavian Sotir",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Bogdan Stanciu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Aurelian Stoica",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Ionut Voicu",
+  "value": 1
+ },
+ {
+  "source": "Jocul asasinilor",
+  "target": "Toni Weick",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Matei, copil miner",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Mariana Lina",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Alexandru Czuli",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Remus Margineanu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Claudiu Ababei",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Izidor-Sorin Caranja",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Mirela Cioaba",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Emanuele Curro",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Rodica Ionescu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ioana Ana Macaria",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ana Matei",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Valentin Mihali",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Irina Naum",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ada Navrot",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Tania Popa",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Cornel Scripcaru",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Radu Tudor",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "André Bendocchi-Alves",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Thomas Ciulei",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Eugen Dinca",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Claudia Enzmann",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Céline Maugis",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Florian Schneider",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Reinhold Vorschneider",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Alexandra Gulea",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Peter Przygodda",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Bruno Tracq",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Catalin Miloiu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Alex Bogdan",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Laura Grosu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Liliana Toma",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Mihaela Poenaru",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Negoita Mihai",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Marian Pîrvu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Monica Florescu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ramona Geaman",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Adriana Itu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Vladimir Nitescu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ciprian Panaite",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Stephane Karo",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Joo Fürst",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Radu Stancu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Attila Nemes",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Lucian Tiganus",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ionut Corbea",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Marian Ciocan",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Andrei Cretan",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Daniel Dobrica",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Vladimir Iancu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Nicu Ilfoveanu",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Dan Lita",
+  "value": 1
+ },
+ {
+  "source": "Matei, copil miner",
+  "target": "Ionel ' Bebe' Mandruta",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Walking with the Enemy",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mark Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Kenny Golde",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Richard Lasser",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jack Snyder",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cornelia Stefan",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Patrick Million",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Vitalie Bichir",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Arhip",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jonas Armstrong",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "David Leon",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Hannah Tointon",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Flora Spencer-Longhurst",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mark Wells",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Michelle Miklosey",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jeffrey C. Hawkins",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "George Icleanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Vlad Radescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Naomi Capron",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Avila Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ann-Marie Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Simon Kunz",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gay Hamilton",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Charles Hubbell",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jonty Stephens",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Aradits",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ken Bones",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Charles De'Ath",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Richard Albrecht",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Robert Jezek",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Heather Bleasdale",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jade Moulla",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Marco Alfieri",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alexandru Suciu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Stefan Velniciuc",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mark Wingett",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Stanescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Tom Bacon",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Simon Hepworth",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Patrick Toomey",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Burn Gorman",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ben Kingsley",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Shane Taylor",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "William Hope",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Oana Draghici",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Stephen Marzella",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Simon Dutton",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Christopher Williams",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "David Jon Wilson",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Dan Hembal",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Constantin Florescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Casey Clem",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Laura-Nora Dinca",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Stefan Iancu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Sabina Branduse",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Finti",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Oltin Hurezeanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ralph Brown",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Christopher Adlington",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Bogdan Farcas",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Bogdan Mancea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrew Brooke",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "George Remes",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Shaun Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Demeter",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Paul Dumitrescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Giles Alderson",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Robert Lonsdale",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Mateiu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Karl Backus",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Graham Powell",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Nica",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ioana Picos",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alexandra Coman",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Irina Saulescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Aaron Kissinger",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florian Ghimpu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ioana Abur",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mark Colleano",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Chrissie Cotterill",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Marian Trasca",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Paraschiv",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jose Fillipi",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Radu Iacoban",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Runcanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Estera Zainea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Eadu Campean",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Debora Zainea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Asier Newman",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Diana Lolescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Chad Gibbs",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Diego Josef",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Brooke McCormick",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cristian Motiu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alan O'Silva",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alex Purje",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Brian Schmidt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Sunny D. Smith",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Szabolcs Tyukodi",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "István Téglás",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Roxanna Ravenor Yamamoto",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cristian Bostanescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "D. Scott Trawick",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Karl J. Deitch",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Caryn Drake",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Lucia Pavlovschi",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Dean Cundey",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Eric L. Beason",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Richard Nord",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Carolyn McLeod",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Anis Doroftei",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Edwards",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Floriela Grapini",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Laura Grosu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Liliana Toma",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Christian Niculescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Adrian Curelea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gina Calin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Eugen Anghelescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Scantei Cosmin-Catalin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Bostina Florin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Viorel Ghenea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Adi Handac",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Petre Ionut",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Martis",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Iasar Memedali",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Matei Niculescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Paul Ruiz",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cosmin Serban",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mugur Szabo",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "George Vasile",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Oana Paunescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Laura Ciobanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ana Maria Cucu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Patrick Sean Green",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Carmen Ilie",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Viorica Petrovici",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Angela Tarzioru",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alexandra Barladeanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniela Busoiu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Musat Claudia",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mark Garbarino",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Deb Garcia",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ramona Geaman",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Letitia Ghenea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Joyce A. Henriquez",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Tara Lang",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ionel Popa",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jamie Leodones",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Madalina Bugeanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ana Maria Bulata",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Adrian Conerth",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mircea Hategan",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Christopher Landry",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Amalia Morar",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Oana Morar",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Maria Nita",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Stefan Petcu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Irina Petrescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Irina Teodorov",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Randy Williams",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Tim Williams",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mirel Cristea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Marius Emil Stanescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Lisa K. Fowle",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cameron Frankley",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jessica Gallavan",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jason W. Jennings",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Harrison Meyle",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jon Michaels",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Thomas J. O'Connell",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Steve Pederson",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Nicolae Radu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "A. Josh Reinhardt",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Michael Santopolo",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Dragos Stanomir",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florian Stoica",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Noel Vought",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ryan Young",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Doru Cretu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Richard Hogue",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Iordache",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "George Petrache",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Reti",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Stoian",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Henry Borrasso",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Melissa Brockman",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Glenn Campbell",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jeffrey Jasper",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jeffrey Kalmus",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Tim McHugh",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Maksim Solonovich",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Maksims Solonvich",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ryan Trenhaile",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Joe Young",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Joseph Young",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Barcun",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Aurel Boata",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Vlad Clontea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ionut Cotruta",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "George Cretu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Anghel Cristian",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Scott Danielson",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Diaconu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Doru Dumitrescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Marian Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Iulian Florian",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Marius Florian",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Serbanescu Florin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Iliescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Duma Iulian",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Mancafa",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ovidiu Marculescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Petre Marin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ionut Neagu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Attila Nemes",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihaela Elena Oros",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Dumitru Stancu Petre",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Pisica",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrew Prather",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Razvan Puiu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ana Maria Radu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Valentin Raileanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andreea Stoica",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Stroe",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andreas Tihanyi",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Tomescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Valeriu Tomescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Maria-Antoaneta Tudor",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Ungureanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Fanel Ursu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Vintileanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Visan",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Constantin Viscreanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Cos Aelenei",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Lupsa Armand",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Boroka Biro",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Calin Catalin",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Chiorean",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Ciobanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Ciobanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Cosor",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "William Coss",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ciobanu Daniel",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Claudia Dragan",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Eugen Dumitru",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gavin Garrison",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ilie Georgica",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Sorin Gociu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Diana Iacomir",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Radu Ion",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrei Karastanef",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Catalin Kislinger",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Daniel Kosuth",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gabriel Kosuth",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Stefan Mangir",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Laurentiu Marcu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gabriela Moraru",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Florin Nicola",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Liviu Oborogeanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Michael Orefice",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Liviu Pojoni Jr.",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Alex Popescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Pãtru Pãunescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Viorel Radu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Adrian Raduta",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "David Richert",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Valentin Simeonov",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Gavin Struthers",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Petre Surugiu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Sorin Udrea",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ion Vasilescu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Petre Victor",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "David Bernstein",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Vaughn Bien III",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Tom Duty",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jason Fabbro",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "David E. Franks",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Ilinca Nanoveanu",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Jeff Olm",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Mihai Cosmin Popa",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Robbie Renfrow",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Matteo Saradini",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Evan Schneider",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Dennis Thorlaksen",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Andrew J. Wahlquist",
+  "value": 1
+ },
+ {
+  "source": "Walking with the Enemy",
+  "target": "Christine Dougherty",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Prowl",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Alexandra Balteanu",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Xandra Popescu",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Corina Moise",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Iulia Ciochina",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Sergiu Costache",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Dragos Olaru",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Stanislav Danylyshyn",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Iulia Stoianovici",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Matan Radin",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Antonella Sarubbi",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Samuel Mihailovici",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Roxana Irina Rusu",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Andreea Tinica",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Alexandru Potop",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Bianca Rotaru",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Geogiana Ilas",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Roxana Radeanu",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Nimrod Gilboa",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Tobias Mahlstedt",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Theo Costea",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Sarah Handelmann",
+  "value": 1
+ },
+ {
+  "source": "Prowl",
+  "target": "Hendrik Kintscher",
+  "value": 1
+ },
+ {
+  "source": "Iulia Lumânare",
+  "target": "Ana, mon amour",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Calin Peter Netzer",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Cezar Paul-Badescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mircea Postelnicu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Diana Cavallioti",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Tania Popa",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Igor Caras-Romanov",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Vasile Muraru",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Adrian Titieni",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Vlad Ivanov",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ioana Flora",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ionut Caras",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mihaela Ciuchea",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Viorel Comanici",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Alexandru Marcu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Eric Buza",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Rodrigo Cravo",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Razvan Vasilescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Varlan Maria Veronica",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Meda Andreea",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Augustin Pop",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Amalia Ciolan",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Florin Grigoras",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Catalina Moga",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Andreea Coff",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Constantin Dinulescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Claudiu Istodor",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Elena Voineag",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Elvira Deatcu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ioana Abur",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ana Maria Donose",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Alex Pavel",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Andrei Hutuleac",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Alex Bogdan",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Anghel Damian",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Irina Noaptes",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mihai Grecescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Sorin Leota",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Titus Popescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Geanina Bont",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Evelina Andries",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Bogdan Olarson",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Alexandru Petrovici",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Laurentiu Damian",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Sophie Dulac",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Oana Iancu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Jonas Katzenstein",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Maximilian Leo",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Codin Maticiuc",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Cristian Nicolescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Michel Zana",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Andreea Ignat",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Andrei Butica",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Dana Bunescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Radu Dragoi",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mihaela Poenaru",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Adrian Moroca",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Marian Pîrvu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Augustina Stanciu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ada Radu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ioana Somanescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Dana Angelescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Luiza Burhai",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Heike Ersfeld",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Christina Paul",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Laurentiu Craciun",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ingrid Cristea",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ovidiu Paunescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Sophie Chiabaut",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Laurence Kurzer",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "André Rigaut",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Pierre Simion",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Cristinel Sirli",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Laura Anca Adascalitei",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Razvan Dit",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mihaela Magopat",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Ciprian Dumitrascu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Catalin Ciobanu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Sandu Constantin",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Daniel Cosor",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Anton George",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Laurentiu Gabriel Harasim",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Catalin Nica",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Florin Niculae",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Liviu Popescu",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Paul Soare",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Florin Sora",
+  "value": 1
+ },
+ {
+  "source": "Ana, mon amour",
+  "target": "Mariuca Teodoru",
+  "value": 1
+ }
+   
+ ]
+}
