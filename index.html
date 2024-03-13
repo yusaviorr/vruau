@@ -1,21 +1,17 @@
 <head>
   <style> body { margin: 0; } </style>
 
-  <script src="//unpkg.com/3d-force-graph"></script>
-<!--  <script src="../../dist/3d-force-graph.js"></script>-->
+  <script src="//unpkg.com/3d-force-graph-vr"></script>
+  <!--<script src="../../dist/3d-force-graph-vr.js"></script>-->
 </head>
 
 <body>
   <div id="3d-graph"></div>
 
-  <script type="importmap">{ "imports": { "three": "//unpkg.com/three/build/three.module.js" }}</script>
-  <script type="module">
-
-    const Graph = ForceGraph3D()
+  <script>
+    const Graph = ForceGraphVR()
       (document.getElementById('3d-graph'))
-        .backgroundColor('#000000')
         .jsonUrl('caca.json')
         .nodeLabel('id')
-        .nodeColor('red')
   </script>
 </body>
